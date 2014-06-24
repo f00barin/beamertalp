@@ -1,4 +1,4 @@
-beamertalp
-==========
+talp beamer theme
+=================
 
-Beamer Template for Talp
+# A simple talp beamer theme
